@@ -68,7 +68,7 @@ output.exe
 
 ---
 
-##📬 Contact
+## 📬 Contact
 
 - GitHub: [harshittheprogrammer69](https://github.com/Harshittheprogramer69)
 - Email: [ubisoftgamer18@gmail.com](mailto:"ubisoftgamer18@gmail.com")
