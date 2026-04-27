@@ -20,6 +20,7 @@ All programs are stored inside the "Code" folder for simplicity.
 
 ## 📜 Program List
 
+```bash
 1. Simple & Compound Interest  
 2. Temperature Conversion  
 3. Salary Calculation  
@@ -57,6 +58,7 @@ All programs are stored inside the "Code" folder for simplicity.
 35. Circular Queue  
 36. Linked List (Extended)  
 37. Tree Traversals  
+```
 
 ---
 
